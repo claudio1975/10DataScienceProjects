@@ -4,4 +4,5 @@ The project is developed in several step:
 1) Baseline models (I've only encoded categorical variables and filled in missing values)
 2) Resampling Methods applied to the baseline models
 3) Stratified Cross-Validation applied to the baseline models
-4) Resampling Methods and Stratified Cross-Validation applied to the baseline models
+4) Resampling Methods (OVER-SAMPLING, UNDER-SAMPLING) and Stratified Cross-Validation applied to the baseline models
+5) Resampling Methods (SMOTE, ADASYN) and Stratified Cross-Validation applied to the baseline models
