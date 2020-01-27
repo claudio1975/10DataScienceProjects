@@ -2,7 +2,7 @@ In a classification task a typical problem is the imbalanced data set, so the go
 
 The project is developed both in R & Python and in several steps.
 
-Python apporach:
+Python approach:
 
 -Baseline models (I've only encoded categorical variables and filled in missing values)
 
