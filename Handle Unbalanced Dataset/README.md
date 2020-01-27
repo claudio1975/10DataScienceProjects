@@ -1,8 +1,8 @@
-In a classification task a typical problem is the unbalanced dataset, so the goal is to use techniques that allow overcome this issue. For this purpose I've taken two datasets from Kaggle.
+In a classification task a typical problem is the imbalanced data set, so the goal is to use techniques that allow overcome this issue. For this purpose I've taken a data set from Kaggle to build a credit scoring model: https://www.kaggle.com/ajay1735/hmeq-data 
 
-The first one to build a credit scoring model: https://www.kaggle.com/ajay1735/hmeq-data 
+The project is developed both in R & Python and in several steps.
 
-The project is developed in several step:
+Python apporach:
 
 -Baseline models (I've only encoded categorical variables and filled in missing values)
 
@@ -14,11 +14,11 @@ The project is developed in several step:
 
 -Resampling Methods (SMOTE, ADASYN) and Stratified Cross-Validation applied to the baseline models
 
-The second one to build a credit card scoring model: https://www.kaggle.com/yuzijuan/credit-card-scoring
+R approach:
 
-The project is developed in several step:
+-Baseline models with Caret 
 
--Baseline models 
+-Resampling Methods with Caret (UNDER-SAMPLING, OVER-SAMPLING, SMOTE, ROSE)
 
--Applied Resampling Method with H2O
+-Resampling Method with H2O
 
