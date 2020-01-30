@@ -2,13 +2,13 @@
 
 The goal followed is to have an overwiev about the classification task:
 
-#### What is a Classification Predictive Modeling
+-What is a Classification Predictive Modeling
 
-#### Tipical issue with a classification task
+-Tipical issue with a classification task
 
-#### What are the strategies to face an unbalanced data set
+-What are the strategies to face an unbalanced data set
 
-#### A practical application: a Loan Prediction model
+-A practical application: a Loan Prediction model
 
 There are pursued 3 approaches:
 
@@ -16,7 +16,7 @@ There are pursued 3 approaches:
 
 #### Sampling methods with Caret
 
-#### Sampling with H2O
+#### Sampling methods with H2O
 
 Read the article on: https://tinyurl.com/wzjmssr
 
