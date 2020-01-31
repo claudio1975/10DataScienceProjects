@@ -10,7 +10,7 @@ The goal followed is to have an overwiev about the classification task:
 
 -A practical application: a Loan Prediction model
 
-There are pursued 3 approaches:
+There are pursued 4 approaches:
 
 #### [Baseline models with Caret](https://rpubs.com/claudio75/570633)
 
