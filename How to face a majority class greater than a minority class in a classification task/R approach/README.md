@@ -14,12 +14,12 @@ There are pursued 3 approaches:
 
 #### [Baseline models with Caret](https://rpubs.com/claudio75/570633)
 
-#### Sampling methods with Caret
+#### [Sampling methods with Caret](https://rpubs.com/claudio75/570653)
 
-#### Cost Sensitive models with Caret
+#### [Cost Sensitive models with Caret](https://rpubs.com/claudio75/570660)
 
 #### Sampling methods with H2O
 
-Read the article on: https://tinyurl.com/wzjmssr
+Read the [article](https://tinyurl.com/wzjmssr)
 
 
