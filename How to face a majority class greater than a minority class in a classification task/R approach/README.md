@@ -16,6 +16,8 @@ There are pursued 3 approaches:
 
 #### Sampling methods with Caret
 
+#### Cost Sensitive models with Caret
+
 #### Sampling methods with H2O
 
 Read the article on: https://tinyurl.com/wzjmssr
