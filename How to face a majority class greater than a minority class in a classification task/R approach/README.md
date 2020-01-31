@@ -12,7 +12,7 @@ The goal followed is to have an overwiev about the classification task:
 
 There are pursued 3 approaches:
 
-#### Baseline models with Caret
+#### [Baseline models with Caret](https://rpubs.com/claudio75/570633)
 
 #### Sampling methods with Caret
 
@@ -22,5 +22,4 @@ There are pursued 3 approaches:
 
 Read the article on: https://tinyurl.com/wzjmssr
 
-and the notebook on Rpubs: https://rpubs.com/claudio75/570633
 
