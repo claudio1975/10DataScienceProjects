@@ -22,5 +22,5 @@ There are pursued 3 approaches:
 
 Read the article on: https://tinyurl.com/wzjmssr
 
-and the notebook on Rpubs: https://rpubs.com/claudio75/570478
+and the notebook on Rpubs: https://rpubs.com/claudio75/570633
 
