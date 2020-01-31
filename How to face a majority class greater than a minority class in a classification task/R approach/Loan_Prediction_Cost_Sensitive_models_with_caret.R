@@ -367,12 +367,12 @@ prediction.pmr <-predict(fit.pmr,newdata=itest,type="raw")
 # Visualization of results
 cat(paste('Confusion Matrix Regularized Random Forest Model'), sep='\n')
 confusionMatrix(prediction.rrf, itest$y)
-F1_train <- fit.rrf$results[[5]][1]
+F1_train <- F1_Score(itrain$y, predict(fit.rrf,newdata=itrain,type="raw"))
 F1_test <- F1_Score(itest$y, prediction.rrf)
 cat(paste('F1_train_rrf:',F1_train,'F1_test_rrf:', F1_test), sep='\n')
 cat(paste('Confusion Matrix Penalized Multinomial Regression Model'), sep='\n')
 confusionMatrix(prediction.pmr, itest$y)
-F1_train <- fit.pmr$results[[6]][1]
+F1_train <- F1_Score(itrain$y, predict(fit.pmr,newdata=itrain,type="raw"))
 F1_test <- F1_Score(itest$y, prediction.pmr)
 cat(paste('F1_train_pmr:',F1_train,'F1_test_pmr:', F1_test), sep='\n')
 cat(paste('Confusion Matrix LSVM Model'), sep='\n')
