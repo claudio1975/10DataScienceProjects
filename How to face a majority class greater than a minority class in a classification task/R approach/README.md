@@ -16,7 +16,7 @@ There are pursued 4 approaches:
 
 #### [Baseline models with Caret](https://rpubs.com/claudio75/570633)
 
-#### [Sampling methods with Caret](https://rpubs.com/claudio75/570653)
+#### [Sampling methods with Caret (over-sampling, down-sampling, SMOTE)](https://rpubs.com/claudio75/570653)
 
 #### [Cost Sensitive models with Caret](https://rpubs.com/claudio75/570660)
 
