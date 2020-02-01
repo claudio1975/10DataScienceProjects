@@ -1,5 +1,7 @@
 # How to face a majority class greater than a minority class in a classification predictive modeling: from Caret to H2O
 
+Read the [article](https://tinyurl.com/wzjmssr)
+
 The goal followed is to have an overwiev about the classification task:
 
 -What is a Classification Predictive Modeling
@@ -20,6 +22,6 @@ There are pursued 4 approaches:
 
 #### [Sampling methods with H2O](https://rpubs.com/claudio75/570664)
 
-Read the [article](https://tinyurl.com/wzjmssr)
+
 
 
