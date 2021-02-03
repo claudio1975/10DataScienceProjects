@@ -1,6 +1,5 @@
 
-`# compute PCA
-set.seed(1000)
+`set.seed(1000)
 df_pca <- prcomp(df_sc)
 summary(df_pca)
 # Loadings for 1st and 2 PCs
