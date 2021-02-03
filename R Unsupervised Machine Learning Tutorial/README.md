@@ -1,13 +1,9 @@
 
-`set.seed(1000)
-
+``set.seed(1000)
 df_pca <- prcomp(df_sc)
-
 summary(df_pca)
-
 # Loadings for 1st and 2 PCs
-
-df_pca$rotation[,1:2]` 
+df_pca$rotation[,1:2]`` 
 
 # plot projections
 fviz_pca_var(df_pca, col.var="contrib",
